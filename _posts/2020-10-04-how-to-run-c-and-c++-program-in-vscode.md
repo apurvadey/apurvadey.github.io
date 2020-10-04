@@ -14,14 +14,14 @@ So to fix this, first of all, we need to be clear that the prequisites for runni
 
 ## Follow the following steps to run a C/C++ Program in VSCode
 
-## Prequisites
+## Prerequisites
 
-1. VSCode Setup
+*  **VSCode Setup**
 
 Most probably, you have got the setup as you are here to solve this issue. If not, you can follow [this link](https://code.visualstudio.com/) for the download and setup of Visual Studio Code.
 
 
-2. MinGW Setup
+* **MinGW Setup**
 
 Follow [this link](http://www.mingw.org/wiki/Getting_Started) to get your MinGW setup done.
 
