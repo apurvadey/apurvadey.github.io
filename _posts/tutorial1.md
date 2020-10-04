@@ -1,8 +1,4 @@
-layout: post
-title: "How to run a C/C++ Program in VSCode"
-comments: true
-categories: 
-
+# How to run a C/C++ Program in VSCode
 
 ### Often it happens that we try to run a simple hello world program written in C/C++ in our favourite coding platform VSCode, but it isn't able to. We may see error like: "gcc" is not recognized as an internal or external command, operable program or batch file.
 
