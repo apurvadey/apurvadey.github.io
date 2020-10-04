@@ -80,14 +80,16 @@ cd helloworld
 code .
 ```
 
+You can mold the folder location as per your need.
+code. command will open the helloworld directory in the VSCode as your working directory.
 
-21. You can mold the folder location as per your need. code. command will open the helloworld directory in the VSCode as your working directory.
+Now, let us do the required configuration in VSCode.
 
-22. In the File explorer title bar, select **new file** button or press **Ctrl + N** for the same. Create the **helloworld.cpp** file and write the code for the same, proceed with saving it **(Ctrl + S)**.
+* In the File explorer title bar, select **new file** button or press **Ctrl + N** for the same. Create the **helloworld.cpp** file and write the code for the same, proceed with saving it **(Ctrl + S)**.
 
-23. Next, from the main menu, select **Terminal > Configure Default Build task**. In the dropdown, select **g++.exe build active** file. This will create a **tasks.json** file in a .vscode folder and open it. 
+* Next, from the main menu, select **Terminal > Configure Default Build task**. In the dropdown, select **g++.exe build active** file. This will create a **tasks.json** file in a .vscode folder and open it. 
 
-24. No changes are required there as such. but ideally, it appears like 
+* No changes are required there as such. but ideally, it appears like 
 
 
 ```json
@@ -113,16 +115,16 @@ code .
 ```
 
 
-25. Now return to your helloworld.cpp file and press **Ctrl+Shift+B** to buiild the tasks mentioned in tasks.json. 
+* Now return to your helloworld.cpp file and press **Ctrl+Shift+B** to buiild the tasks mentioned in tasks.json. 
 
-26. In the terminal, the message of the task being execeuted will be displayed. 
+* In the terminal, the message of the task being execeuted will be displayed. 
 
-27. Click a **new terminal using the + button**, where the helloworld will be the working directory.
+* Click a **new terminal using the + button**, where the helloworld will be the working directory.
 
-28. You can run helloworld by typing **helloworld.exe (or .\helloworld.exe if you use powershell)**.
+* You can run helloworld by typing **helloworld.exe (or .\helloworld.exe if you use powershell)**.
 
-29. Your code will run!!!!!
+* *Your code will run!!!!!*
 
-30. Congrats.
+* *Congrats.*
 
-## Thanks for reading!
+## *Thanks for reading!*
