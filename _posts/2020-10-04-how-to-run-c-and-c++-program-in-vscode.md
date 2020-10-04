@@ -8,22 +8,25 @@ categories:
 
 
 
-### Often it happens that we try to run a simple hello world program written in C/C++ in our favourite coding platform VSCode, but it isn't able to. We may see error like: "gcc" is not recognized as an internal or external command, operable program or batch file.
+Often it happens that we try to run a simple hello world program written in C/C++ in our favourite coding platform VSCode, but it isn't able to. We may see error like: "gcc" is not recognized as an internal or external command, operable program or batch file.
 
-### So to fix this, first of all, we need to be clear that the prequisites for running any c/cpp program are present in our local system. Here is a blog to do the same, step by step.
+So to fix this, first of all, we need to be clear that the prequisites for running any c/cpp program are present in our local system. Here is a blog to do the same, step by step.
 
 ## Follow the following steps to run a C/C++ Program in VSCode
 
 ## Prequisites
 
 1. VSCode Setup
-### Most probably, you have got the setup as you are here to solve this issue. If not, you can follow [this link](https://code.visualstudio.com/) for the download and setup of Visual Studio Code.
+
+Most probably, you have got the setup as you are here to solve this issue. If not, you can follow [this link](https://code.visualstudio.com/) for the download and setup of Visual Studio Code.
 
 
 2. MinGW Setup
-### Follow [this link](http://www.mingw.org/wiki/Getting_Started) to get your MinGW setup done.
+
+Follow [this link](http://www.mingw.org/wiki/Getting_Started) to get your MinGW setup done.
 
 ## Let me give you the highlights for the same. 
+
 1. On downloading the setup exe file, **run it as administrator**. 
 
 2. A dialog box will appear for download and setup of MinGW Installation Manager
