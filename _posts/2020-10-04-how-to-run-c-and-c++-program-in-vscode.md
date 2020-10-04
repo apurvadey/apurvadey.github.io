@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to run a C/C++ Program in VSCode"
+title: "How to run C and C++ Program in VSCode"
 date: 2020-10-04
 comments: true
 categories: 
