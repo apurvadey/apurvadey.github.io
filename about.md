@@ -6,7 +6,7 @@ title: About
 
 <img class="user-avatar" src="{{ site.owner.avatar }}">
 
-I am Computer Science Undergrad, looking for intership opportunities in the field of Machine Learning and Artificial Intelligence. This is my personal blogging website.
+I am Computer Science Undergrad, currently an intern in CDAC, Pune, in the field of Artificial Intelligence. This is my personal blogging website.
 
 <div class="pagination">
   {% if site.owner.linkedin %}
